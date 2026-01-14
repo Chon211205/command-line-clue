@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Artist
 - [ ] The Mayor
-- [ ] The Baker
+- [ x] The Baker
 
 ## Weapons
 - [ x] Glass Bottle
@@ -16,5 +16,6 @@
 *Me manda a buscar al laboratorio de ciencias en la escuela*
 *botella de vidrio tachado, encontrado en la bodega*
 *Trofeo de bronze tachado, y me mando a los pasillos en las tiendas*
+*buscar a alguien en el ayuntamiento, el panadero tachado*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
