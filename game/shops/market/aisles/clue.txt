@@ -1,6 +1,6 @@
 New Clue:
 
-Go to the cellar in the Residential Area.
+Your intuition suggests backtracking to the town hall and looking for something else.
 
 Hint: You'll need to go back several directories to reach this location.
 Remember that you can use multiple '../' to go up multiple levels:

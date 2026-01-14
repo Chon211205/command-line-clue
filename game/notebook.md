@@ -1,16 +1,16 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Gardener
 - [ ] The Artist
-- [ ] The Chef
+- [ ] The Mayor
+- [ ] The Baker
 
 ## Weapons
-- [ ] Walking Stick
+- [ ] Glass Bottle
 - [ ] Magnifying Glass
-- [ ] Garden Shears
+- [ ] Bronze Trophy
 
 ## Notes
-*Use this space to record your findings and deductions...*
+*no hay nada en el parque*
 
 Location of the crime is still unknown - the room must have been empty when it happened...

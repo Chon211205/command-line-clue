@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-Local residents say The Gardener was the last one to report activity near the cottage.
+The Florist came running to the police station, insisting they saw suspicious activity around the cellar.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations
