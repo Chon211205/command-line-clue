@@ -19,6 +19,6 @@
 *buscar a alguien en el ayuntamiento, el panadero tachado*
 *Me manda de regreso a los cuartos en el area residencial, el alcalde tachado, tambien se encontro el sastre*
 *Supuesto sospechoso: el artista con una lupa en una sala*
-*Sospechoso, arma y lugar confirmado*
+*Sospechoso, arma y lugar confirmado
 
 Location of the crime is still unknown - the room must have been empty when it happened...

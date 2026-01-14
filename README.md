@@ -114,3 +114,8 @@ cat clue.txt   # Read the next clue
 - Keep track of which suspects and weapons you've crossed off
 
 Happy investigating, Detective! The town is counting on you to solve this mystery!
+
+## Resolucion
+- Sospechoso: El artista
+- Arma: una lupa
+- Lugar: en la sala
